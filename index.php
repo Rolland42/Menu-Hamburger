@@ -15,9 +15,8 @@
   <ul class="menu">
     <li><a href="#Locations">Locations</a></li>
     <li><a href="#Montagnes">Montagne</a></li>
-    <li><a href="#Campagnes">Campagne</a></li>
-    <li><a href="#Mer">Mer</a></li>
-    <li><a href="#Contact">Contact</a></li>
+    <li><a href="#Campagnes">Mer</a></li>
+    <li><a href="#Mer">Contact</a></li>
   </ul>
 </header>
 </body>
